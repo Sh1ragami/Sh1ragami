@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,cpp,java,python,go,rust,dart)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=flutter,react,flask,mysql,docker,kubernetes)](https://skillicons.dev)<br>
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-1AA7ED?logo=netlify&logoColor=white)](https://sh1ragami-portfolio.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/Sh1ragami)
+[![Protopedia](https://img.shields.io/badge/Protopedia-02adbc?logo=google&logoColor=white)](https://protopedia.net/prototyper/sh1ragami)
 [![Qiita](https://img.shields.io/badge/Qiita-00CA00?logo=qiita&logoColor=white)](https://qiita.com/Sh1ragami)
 
 <p align="center">
