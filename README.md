@@ -7,7 +7,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,java,python,go,rust,dart)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=flutter,react,flask,mysql,docker,kubernetes)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,java,python,go,rust,dart,flutter,react,flask,mysql,docker,kubernetes)](https://skillicons.dev)<br>
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-1AA7ED?logo=netlify&logoColor=white)](https://sh1ragami-portfolio.netlify.app)
 [![Protopedia](https://img.shields.io/badge/Protopedia-02adbc?logo=google&logoColor=white)](https://protopedia.net/prototyper/sh1ragami)
