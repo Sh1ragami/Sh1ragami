@@ -56,6 +56,6 @@ jobs:
           commit_message: "chore(readme): auto-update Writing (Qiita/note, ja+en)"
           file_pattern: |
             README.md
-            README.en.md
+            README.jp.md
           commit_user_name: "github-actions[bot]"
           commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
