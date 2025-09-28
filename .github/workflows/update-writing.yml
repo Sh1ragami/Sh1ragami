@@ -37,7 +37,7 @@ jobs:
           QIITA_USER: "Sh1ragami"
           NOTE_USER: "sh1ragami"
           # 複数READMEに対応（日本語/英語）
-          README_PATHS: "README.md,README.en.md"
+          README_PATHS: "README.md,README.jp.md"
           # 単一にしたい場合は README_PATH を使用: "README.md"
           MAX_ITEMS: "5"
           # 並び順: desc / asc（省略時 desc）
