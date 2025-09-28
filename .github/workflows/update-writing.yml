@@ -1,0 +1,43 @@
+name: Update Writing (Qiita & note)
+
+on:
+  schedule:
+    - cron: "21 0 * * *"   # 毎日09:21 JST（00:21 UTC）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests feedparser python-dateutil
+
+      - name: Update README writing section
+        env:
+          QIITA_USER: "Sh1ragami"
+          NOTE_USER: "sh1ragami"
+          README_PATH: "README.md"
+          MAX_ITEMS: "5"
+          # （任意）Qiita のAPIレート緩和用トークンを入れるなら：
+          # QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
+        run: |
+          python .github/scripts/update_writing.py
+
+      - name: Commit & push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(readme): auto-update Writing (Qiita/note)"
+          file_pattern: README.md
