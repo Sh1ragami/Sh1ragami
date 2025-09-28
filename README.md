@@ -12,6 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1AA7ED?logo=netlify&logoColor=white)](https://sh1ragami-portfolio.netlify.app)
 [![Protopedia](https://img.shields.io/badge/Protopedia-02adbc?logo=google&logoColor=white)](https://protopedia.net/prototyper/sh1ragami)
 [![Qiita](https://img.shields.io/badge/Qiita-00CA00?logo=qiita&logoColor=white)](https://qiita.com/Sh1ragami)
+[![Note](https://img.shields.io/badge/no+e-FFFFFF?logo=note&logoColor=black)](https://note.com/sh1ragami)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="parukara" width="200"/>
