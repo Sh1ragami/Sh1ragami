@@ -62,12 +62,6 @@
 
 <br>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sh1ragami&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" height="150" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1ragami&layout=compact" height="150" alt="top-langs"/>
-</p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="gallery-1" width="220"/>
   <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="gallery-2" width="220"/>
