@@ -20,7 +20,7 @@
     <img alt="Qiita" src="https://img.shields.io/badge/Qiita-00CA00?logo=qiita&logoColor=white">
   </a>
   <a href="https://note.com/sh1ragami">
-    <img alt="note" src="https://img.shields.io/badge/note-000000?logo=note&logoColor=white">
+    <img alt="note" src="https://img.shields.io/badge/note-FFFFFF?logo=note&logoColor=black">
   </a>
 </p>
 
