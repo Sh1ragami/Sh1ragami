@@ -53,7 +53,11 @@
 
 ### ✍️ Recent Articles
 <!--START:WRITING-->
-
+- 2025-09-25 · **Qiita** — [就活で「ちゃんとやってる感」を出すGitHubプロフィールの作り方！](https://qiita.com/Sh1ragami/items/be64140a1f08ba1fb399)
+- 2025-08-06 · **Qiita** — [【参加レポート】全国学生対抗 Qiita × FastDOCTOR Health Tech Hackathon にチームAIELとして参戦！](https://qiita.com/Sh1ragami/items/7131c8a2a036d594b44d)
+- 2025-05-24 · **Qiita** — [GPGPUの数学的理論：なぜ行列演算がGPUと相性がいいのか？](https://qiita.com/Sh1ragami/items/08a8e36c9fc26695d6d6)
+- 2025-05-24 · **Qiita** — [量子時代の暗号技術：ポスト量子暗号\(PQC\)とは？](https://qiita.com/Sh1ragami/items/8e48a7aa44d840284f3e)
+- 2025-05-20 · **Qiita** — [【完全解説】Pythonのリアルタイム処理｜弱点・対策・実装コードまとめ](https://qiita.com/Sh1ragami/items/c390d2bf4608274a4a19)
 <!--END:WRITING-->
 
 <br>
