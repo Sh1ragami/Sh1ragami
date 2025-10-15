@@ -24,22 +24,6 @@
   </a>
 </p>
 
-
-### 🌱 About Me
-- A 3rd-year student in Fukuoka, frequently joining **hackathons**.  
-- Recently interested in **AI**, **Security**, and **OSS contributions**.  
-- Also studying **English, Math, and Physics** as a hobby.
-
-<br>
-
-### 🏃 Recent Experiences
-- **2025/09/01–09/26 – Internship at LINE Yahoo Corporation**  
-  Contributed to the development of the vector search engine **[Vald](https://github.com/vdaas/vald)** (TLS certificate hot-reload, CI/CD, etc.)
-- **2025/08 – Internship at Mitsui Bussan Secure Directions**  
-  Gained hands-on experience in **Web application security assessment**.
-- **2025/05–Present – Paiza Level-Up Problem Set (Part-time)**  
-  Creating **algorithm and ranking problems** for learning platforms.
-
 <br>
 
 ### 🛠 Tech Stack
