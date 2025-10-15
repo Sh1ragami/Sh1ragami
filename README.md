@@ -1,12 +1,10 @@
-<p align="right">
-  <a href="./README.jp.md"><img src="https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-Japanese-1a73e8"></a>
-  <a href="./README.md"><img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-6c63ff"></a>
-</p>
-
 <h1 align="center">Hi, I'm Sh1ragami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <b>3rd-year Student, Department of Computer Science, ASO College of Business</b><br/>
+  <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="gallery-1" width="30"/>
+  <b>3rd-year Student, Department of Computer Science, ASO College of Business</b>
+  <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="gallery-2" width="30"/>
+  
 </p>
 
 <p align="center">
@@ -43,11 +41,3 @@
 - 2025-05-24 · **Qiita** — [GPGPUの数学的理論：なぜ行列演算がGPUと相性がいいのか？](https://qiita.com/Sh1ragami/items/08a8e36c9fc26695d6d6)
 - 2025-05-24 · **Qiita** — [量子時代の暗号技術：ポスト量子暗号\(PQC\)とは？](https://qiita.com/Sh1ragami/items/8e48a7aa44d840284f3e)
 <!--END:WRITING-->
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="gallery-1" width="220"/>
-  <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="gallery-2" width="220"/>
-  <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="gallery-3" width="220"/>
-</p>
