@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="gallery-1" width="30"/>
-  <b>3rd-year Student, Department of Computer Science, ASO College of Business</b>
+  <b>4th-year Student, Department of Computer Science, ASO College of Business</b>
   <img src="https://github.com/user-attachments/assets/90cddc76-2f98-413f-94e5-1eb399d63719" alt="gallery-2" width="30"/>
   
 </p>
